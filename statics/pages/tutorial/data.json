@@ -1,0 +1,132 @@
+{
+    "general": [
+        {
+            "title": "Conversational E-Commerce",
+            "sub": "Do all your trading within a chat without leaving it"
+        },
+        {
+            "title": "Invoice",
+            "sub": "Personalized invoice prepared for every single customer"
+        },
+        {
+            "title": "Secure Pay",
+            "sub": "payment is done securely and kept secure till the end of trading journey"
+        },
+        {
+            "title": "Shipping",
+            "sub": "seller will send the products directly by him/her self."
+        },
+        {
+            "title": "Acknowledge",
+            "sub": "the payment will be made instantly after buyers approval."
+        },
+        {
+            "title": "Review",
+            "sub": "customer can submit their reviews after making a legit purchase."
+        },
+        {
+            "title": "Sell & Buy",
+            "sub": "get access to the local and hand picked products"
+        }
+    ],
+    "buy": [
+        {
+            "title": "Chat",
+            "sub": "talk or negotiate with sellers directly"
+        },
+        {
+            "title": "Cart",
+            "sub": "add your product of interest to your cart."
+        },
+        {
+            "title": "Order",
+            "sub": "send your order to the seller directly before any payment"
+        },
+        {
+            "title": "Invoice",
+            "sub": "Take a careful look at the invoice that is specifically created for you\nAsk any question directly from the seller to clarify your needs before the purchase."
+        },
+        {
+            "title": "Invoice Expiry",
+            "sub": "invoice may have an expiry so becareful not to miss the oppotunity."
+        },
+        {
+            "title": "Buyer's info",
+            "sub": "input the recipient info correctly."
+        },
+        {
+            "title": "Secure Pay",
+            "sub": "payment is done securely and kept secure till the end of trading journey"
+        },
+        {
+            "title": "Preparing to ship",
+            "sub": "right after you payment the seller will prepare your package."
+        },
+        {
+            "title": "Ship directly",
+            "sub": "seller will ship directly based on what you agreed"
+        },
+        {
+            "title": "Tracking of Shipment",
+            "sub": "You can trace you shipment."
+        },
+        {
+            "title": "Delivery receipt",
+            "sub": "Inform Chatify once you got the product(s)."
+        },
+        {
+            "title": "Withdrawal",
+            "sub": "Chatify waits for your approval to make the instant payment."
+        },
+        {
+            "title": "Review",
+            "sub": "remember to review what you purchased so that others can take advantage."
+        }
+    ],
+    "sell": [
+        {
+            "title": "Verification",
+            "sub": "add your products to your own shop."
+        },
+        {
+            "title": "Shop's page",
+            "sub": "set your bio/website in social networks with your personal shop's url."
+        },
+        {
+            "title": "Chat and get orders",
+            "sub": "chat with your potential customers."
+        },
+        {
+            "title": "Invoice",
+            "sub": "send an invoice to be paid by the buyer."
+        },
+        {
+            "title": "Invoice Expiry",
+            "sub": "You may set expiry for an invoice to inform the buyer regarding the payment due."
+        },
+        {
+            "title": "personalized discount",
+            "sub": "provide personalized discount as a business strategy"
+        },
+        {
+            "title": "secure pay",
+            "sub": "payment is done securely and kept secure till the end of trading journey"
+        },
+        {
+            "title": "preparation",
+            "sub": "After payment is setteled you will be informed for the recipient info"
+        },
+        {
+            "title": "ship directly",
+            "sub": "Ship it yourself according to what agreed"
+        },
+        {
+            "title": "Tracking",
+            "sub": "input tracking info for the buyer to trace."
+        },
+        {
+            "title": "No commission",
+            "sub": "Chatify instantly deposit the money after confirmation."
+        }
+    ]
+}
