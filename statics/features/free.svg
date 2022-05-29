@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96.000008"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-filename="/Users/SaaMoj/Documents/git-boomi/Boomi/statics/imgs/boomiapp/features/free.png"
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg91"
+   sodipodi:docname="free.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+  <metadata
+     id="metadata97">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs95" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     id="namedview93"
+     showgrid="false"
+     inkscape:zoom="2.4133707"
+     inkscape:cx="43.47474"
+     inkscape:cy="75.300757"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Flat"
+     inkscape:showpageshadow="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="false" />
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g
+     id="g16">
+    <title
+       id="title10">background</title>
+    <rect
+       fill="none"
+       id="canvas_background"
+       height="514"
+       width="514"
+       y="-1"
+       x="-1" />
+    <g
+       display="none"
+       overflow="visible"
+       y="0"
+       x="0"
+       height="100%"
+       width="100%"
+       id="canvasGrid">
+      <rect
+         fill="url(#gridpattern)"
+         stroke-width="0"
+         y="0"
+         x="0"
+         height="100%"
+         width="100%"
+         id="rect13" />
+    </g>
+  </g>
+  <g
+     stroke="null"
+     transform="matrix(1.0122624,0,0,1.0122624,-186.59994,-202.19658)"
+     id="svg_127">
+    <title
+       stroke="null"
+       transform="translate(-0.9878861308097839,0) translate(0.9878861308097839,0) translate(0.9878861308097839,0) translate(0.9878861308097839,0) translate(0.9878861308097839,0) translate(0.9878861308097839,0) translate(0.9878861308097839,0) translate(0,-0.9878861308097839) translate(-28.598154067993164,-25.298368453979492) translate(-1713.251708984375,-1696.204345703125) translate(1926.0518798828125,0) translate(0,1926.0518798828125) "
+       id="title22">background</title>
+    <rect
+       stroke="null"
+       x="188.14145"
+       y="202.56128"
+       width="514"
+       height="514"
+       id="svg_125"
+       fill="none" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     transform="matrix(0.94663843,0,0,0.94663843,-2.6138933,-0.2298117)">
+    <path
+       id="path11269"
+       d="m 123.28844,32.977112 c 0,-1.501603 -1.25131,-2.502684 -2.50263,-2.502684 H 96.259866 V 7.950508 L 89.752946,0.442552 H 52.713774 l -6.506919,7.507956 v 22.52392 H 22.181431 c -1.5016,0 -2.502637,1.251319 -2.502637,2.502684 l -4.755038,99.855698 c 0,1.50155 1.251319,2.50263 2.502637,2.50263 H 125.29056 c 1.5016,0 2.50264,-1.25131 2.50264,-2.50263 z M 52.713774,7.950508 H 89.50271 v 22.52392 H 52.713774 Z"
+       class="st0"
+       style="fill:#cba677;fill-opacity:1;stroke-width:2.50266" />
+    <g
+       id="g11279"
+       transform="matrix(0.71251762,0,0,0.71251762,-140.95586,24.26751)">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2511px;line-height:1.45;font-family:Aviny;-inkscape-font-specification:Aviny;text-align:end;text-anchor:end;white-space:pre;shape-inside:url(#rect3271);fill:#035000;fill-opacity:1;stroke:#035000;stroke-width:0.425717;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="g11275"
+         transform="matrix(2.6001613,0,0,2.6001613,9046.603,-3001.8834)"
+         aria-label="ب"
+         inkscape:export-xdpi="91.790001"
+         inkscape:export-ydpi="91.790001" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.41698245,0,0,0.41698245,6.438292,23.117143)"
+     id="Flat">
+    <path
+       style="fill:#035000;fill-opacity:1"
+       d="m 140.98112,22.012587 23.19,25.453 32.81,-10.448 7.357,33.638 33.638,7.357 -10.448,32.810003 25.453,23.19 -25.453,23.19 10.448,32.81 -33.638,7.357 -7.357,33.638 -32.81,-10.448 -23.19,25.453 -23.19,-25.453 -32.81,10.448 -7.357,-33.638 -33.638,-7.357 10.448,-32.81 -25.453,-23.19 25.453,-23.19 -10.448,-32.810003 33.638,-7.357 7.357,-33.638 32.81,10.448 z"
+       fill="#ffb531"
+       id="path83" />
+    <g
+       transform="translate(2.9811198,-1.9874132)"
+       style="fill:#ffffff"
+       fill="#f98500"
+       id="g91">
+      <path
+         style="fill:#ffffff"
+         d="m 81.431,128.002 h 113.137 v 16 H 81.431 Z"
+         transform="matrix(0.707,-0.707,0.707,0.707,-55.749,137.421)"
+         id="path85" />
+      <path
+         style="fill:#ffffff"
+         d="m 106,128 c -13.255,0 -24,-10.745 -24,-24 0,-13.255 10.745,-24 24,-24 13.255,0 24,10.745 24,24 -0.015,13.249 -10.751,23.985 -24,24 z m 0,-32 c -4.418,0 -8,3.582 -8,8 0,4.418 3.582,8 8,8 4.418,0 8,-3.582 8,-8 -0.005,-4.416 -3.584,-7.995 -8,-8 z"
+         id="path87" />
+      <path
+         style="fill:#ffffff"
+         d="m 178,184 c -13.255,0 -24,-10.745 -24,-24 0,-13.255 10.745,-24 24,-24 13.255,0 24,10.745 24,24 -0.015,13.249 -10.751,23.985 -24,24 z m 0,-32 c -4.418,0 -8,3.582 -8,8 0,4.418 3.582,8 8,8 4.418,0 8,-3.582 8,-8 -0.005,-4.416 -3.584,-7.995 -8,-8 z"
+         id="path89" />
+    </g>
+  </g>
+</svg>

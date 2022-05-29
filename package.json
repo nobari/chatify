@@ -1,0 +1,32 @@
+{
+  "name": "nobari",
+  "version": "1.0.0",
+  "description": "Talented => mailto:jobs@hypermyper.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"https://hypermyper.com\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobari/chatify.git"
+  },
+  "author": "hypermyper.com",
+  "license": "hypermyper.com",
+  "bugs": {
+    "url": "https://github.com/nobari/chatify/issues"
+  },
+  "keywords": [
+    "platform",
+    "mobile",
+    "web component",
+    "component",
+    "custom element",
+    "material design",
+    "pwa",
+    "smart",
+    "ios",
+    "hypermyper.com",
+    "android"
+  ],
+  "homepage": "https://hypermyper.com"
+}

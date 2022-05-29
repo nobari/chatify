@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" version="1.1">
+   <defs>
+      <style>
+         #motor {
+            transform-origin: center;
+            animation: 1s ease-in-out infinite alternate motorAnim;
+         }
+         #box {
+            transform-origin: center;
+            animation: 1s .5s ease-in-out infinite alternate motorAnim;
+         }
+
+         @keyframes motorAnim {
+            0% {
+               transform: rotate(-7deg);
+            }
+
+            to {
+               transform: rotate(7deg);
+            }
+         }
+      </style>
+   </defs>
+   <g id="box">
+      <path id="path62" style="display:block;fill:#9a4121;stroke-width:0.68" fill="#ffd064"
+         d="m 566,409 c 0,4.73 -4.98,8.58 -11.1,8.58 h -272 c -6.14,0 -11.1,-3.84 -11.1,-8.58 V 198 c 0,-4.34 4.56,-7.86 10.2,-7.86 h 273 c 5.63,0 10.2,3.52 10.2,7.86 z" />
+      <path id="path64" style="display:block;fill:#7e3a1a;stroke-width:0.68" fill="#ffc250"
+         d="m 556,191 h -21.1 c 5.63,0 10.2,3.52 10.2,7.86 v 218 h 9.94 c 6.14,0 11.1,-3.84 11.1,-8.58 v -211 c 7.7e-4,-4.34 -4.56,-7.86 -10.2,-7.86 z" />
+      <path id="path66" style="display:block;fill:#ffc431;stroke-width:1.03" fill="#26457d"
+         d="m 454,231 h -77.2 c -7.15,0 -12.9,-2.25 -12.9,-5.02 v -35 h 103 v 35 c 0,2.77 -5.8,5.02 -12.9,5.02 z" />
+      <path id="path68" style="display:block;fill:#fcb431;stroke-width:0.965;filter:url(#filter21094-7)" fill="#21386b"
+         d="m 432,191 v 34.9 c 0,2.77 -5.11,5.01 -11.4,5.01 h 33.2 c 6.3,0 11.4,-2.24 11.4,-5.01 V 191 Z" />
+      <g id="g78" style="display:block" transform="matrix(1.3,0.0406,-0.0406,1.3,-44.3,-65.6)">
+         <g id="g72" transform="translate(344,203)">
+            <path id="path70" fill="#1f141d"
+               d="m -9.28,-1.73 c -0.957,5.13 2.42,10.1 7.55,11 5.13,0.957 10.1,-2.42 11,-7.55 0.956,-5.12 -2.42,-10.1 -7.55,-11 -5.13,-0.958 -10.1,2.42 -11,7.55" />
+         </g>
+         <g id="g76" transform="translate(341,200)">
+            <path id="path74" fill="#ffffff"
+               d="M -2.41,-0.45 C -2.659,0.88 -1.782,2.16 -0.45,2.41 0.88,2.658 2.16,1.78 2.41,0.45 2.658,-0.88 1.78,-2.16 0.45,-2.41 -0.88,-2.658 -2.16,-1.781 -2.41,-0.45" />
+         </g>
+      </g>
+      <g id="g88" style="display:block" transform="matrix(1.3,0.0406,-0.0406,1.3,-44.3,-65.6)">
+         <g id="g82" transform="translate(374,203)">
+            <path id="path80" fill="#1f141d"
+               d="m -9.28,-1.74 c -0.957,5.13 2.42,10.1 7.55,11 5.13,0.957 10.1,-2.42 11,-7.55 0.955,-5.12 -2.42,-10.1 -7.55,-11 -5.13,-0.957 -10.1,2.42 -11,7.55" />
+         </g>
+         <g id="g86" transform="translate(370,200)">
+            <path id="path84" fill="#ffffff"
+               d="M -2.41,-0.45 C -2.66,0.88 -1.782,2.16 -0.45,2.41 0.88,2.658 2.16,1.78 2.41,0.45 2.658,-0.88 1.781,-2.16 0.45,-2.41 -0.88,-2.658 -2.16,-1.781 -2.41,-0.45" />
+         </g>
+      </g>
+      <g id="g93" style="display:block" fill="#f4e8d7" transform="matrix(1.02,0,0,0.853,731,-298)">
+         <path style="stroke-width:0.277"
+            d="m -300,662 c -6.45,-7.55 34.5,-32.7 48.4,-32.9 13.9,-0.225 45.6,106 10.1,113 -15.2,3.13 -96.8,8.36 -158,-0.869 -12.8,-1.93 -13.4,-32.8 -5.6,-44.6 10.5,-15.9 34.6,-11.1 50.8,-5.21 36.3,13.3 60.1,23.7 69.9,8.91 7.57,-11.6 -8.93,-30.7 -15.4,-38.2 z"
+            id="be" />
+         <ellipse id="ellipse91" style="stroke-width:0.277" ry="26.4" rx="27.299999" cy="785" cx="-304" />
+      </g>
+      <g id="g52" style="display:block" transform="matrix(1.47,0,0,1.73,-161,-160)">
+         <g id="g50" transform="translate(520,380)">
+            <path id="path48" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" stroke="#1f141d"
+               fill-opacity="0" d="m 0,0 c 0,0 1.22,-31.1 -6.03,-55.6 -7.09,-23.9 -24.4,-48.8 -25.2,-49.9" />
+         </g>
+      </g>
+      <g id="g60" style="display:block" transform="matrix(1.51,0,0,1.74,-140,-158)">
+         <g id="g58" transform="translate(236,356)">
+            <path id="path56" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" stroke="#1f141d"
+               fill-opacity="0" d="m 0,0 c 0,0 -5.02,-28.1 4.91,-51.6 9.72,-23 32.5,-38.8 33.5,-39.5" />
+         </g>
+      </g>
+   </g>
+   <g id="motor">
+      <g id="g12" style="display:block" transform="matrix(1.3,0.108,-0.108,1.3,231,473)">
+         <path id="path10" fill="#80c904"
+            d="m -31.6,0 c 0,-3 1.19,-5.89 3.32,-8.01 2.12,-2.12 5.01,-3.32 8.01,-3.32 h 51.9 v 22.7 h -51.9 c -3,0 -5.89,-1.19 -8.01,-3.32 -2.12,-2.12 -3.32,-5 -3.32,-8.01 z" />
+      </g>
+      <g id="g16" style="display:block" transform="matrix(1.3,0.108,-0.108,1.3,593,504)">
+         <path id="path14" fill="#80c904"
+            d="m 31.6,0 c 0,-3 -1.19,-5.89 -3.32,-8.01 -2.12,-2.12 -5.01,-3.32 -8.01,-3.32 h -51.9 v 22.7 h 51.9 c 3,0 5.89,-1.19 8.01,-3.32 2.12,-2.12 3.32,-5 3.32,-8.01 z" />
+      </g>
+      <g id="g20" style="display:block" transform="matrix(1.3,0.108,-0.108,1.3,411,488)">
+         <path id="path18" fill="#9ded15"
+            d="m 112,0 c 0,-12.9 -10.5,-23.4 -23.4,-23.4 h -178 c -12.9,0 -23.4,10.5 -23.4,23.4 0,12.9 10.5,23.4 23.4,23.4 h 178 C 101.5,23.4 112,12.9 112,0 Z" />
+      </g>
+      <g id="g30" style="display:block" transform="matrix(1.3,0.0628,-0.0628,1.3,-43.2,-22.9)">
+         <g id="g24" transform="translate(369,539)">
+            <path id="path22" fill="#9ded15"
+               d="m -126,105 c 0,0 8.86,-79.1 15.7,-140 4.44,-39.6 38,-69.6 77.9,-69.6 h 64.3 c 39.9,0 73.4,30 77.9,69.6 6.84,61.1 15.7,140 15.7,140 h -251 z" />
+         </g>
+         <g id="g28" transform="translate(373,594)">
+            <path id="path26" fill="#80c904"
+               d="m -72.3,124 c 0,0 12.3,-127 19.3,-199 2.65,-27.3 25.6,-48.1 52.9,-48.1 27.3,0 50.3,20.8 52.9,48.1 6.98,71.9 19.3,199 19.3,199 h -145 z" />
+         </g>
+      </g>
+      <g id="g44" style="display:block" transform="matrix(1.3,0.0628,-0.0628,1.3,-43.2,-22.9)">
+         <g id="g34" transform="translate(369,376)">
+            <path id="path32" fill="#80c904"
+               d="M 0,-66.1 C 36.5,-66.1 66.1,-36.5 66.1,0 66.1,36.5 36.5,66.1 0,66.1 -36.5,66.1 -66.1,36.5 -66.1,0 -66.1,-36.5 -36.5,-66.1 0,-66.1 Z" />
+         </g>
+         <g id="g38" transform="translate(369,376)">
+            <path id="path36" fill="#a5ff08"
+               d="M 0,-54.7 C 30.2,-54.7 54.7,-30.2 54.7,0 54.7,30.2 30.2,54.7 0,54.7 -30.2,54.7 -54.7,30.2 -54.7,0 -54.7,-30.2 -30.2,-54.7 0,-54.7 Z" />
+         </g>
+         <g id="g42" transform="translate(350,362)">
+            <path id="path40" fill="#ffffff"
+               d="M 0,-14.5 C 7.97,-14.5 14.5,-8.02 14.5,0 14.5,8.02 8.02,14.5 0,14.5 -7.98,14.5 -14.5,8.02 -14.5,0 -14.5,-8.02 -8.02,-14.5 0,-14.5 Z" />
+         </g>
+      </g>
+   </g>
+
+</svg>

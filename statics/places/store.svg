@@ -1,0 +1,25 @@
+<svg style="enable-background:new 0 0 512 512" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<rect x="33.1" y="137" width="445" height="331" style="fill:#FFD15C"/>
+<rect x="284" y="228" width="162" height="239" style="fill:#415A6B"/>
+<rect x="300" y="244" width="130" height="207" style="fill:#8AD7F8"/>
+<path d="M0,102.4v48c0,28.8,22.4,51.2,51.2,51.2s51.2-22.4,51.2-51.2v-48H0z" style="fill:#F05540"/>
+<path d="m102 102v48c0 28.8 22.4 51.2 51.2 51.2s51.2-22.4 51.2-51.2v-48h-102z" style="fill:#E8EAE9"/>
+<path d="m205 102v48c0 28.8 22.4 51.2 51.2 51.2s51.2-22.4 51.2-51.2v-48h-102z" style="fill:#F05540"/>
+<path d="m307 102v48c0 28.8 22.4 51.2 51.2 51.2s51.2-22.4 51.2-51.2v-48h-102z" style="fill:#E8EAE9"/>
+<path d="m410 102v48c0 28.8 22.4 51.2 51.2 51.2s51.2-22.4 51.2-51.2v-48h-102z" style="fill:#F05540"/>
+<polygon points="125 0 37.3 0 0 102 102 102" style="fill:#F3705A"/>
+<polygon points="212 0 125 0 102 102 205 102" style="fill:#F3F3F3"/>
+<polygon points="300 0 212 0 205 102 307 102" style="fill:#F3705A"/>
+<polygon points="387 0 300 0 307 102 410 102" style="fill:#F3F3F3"/>
+<polygon points="475 0 387 0 410 102 512 102" style="fill:#F3705A"/>
+<rect y="467" width="512" height="44.8" style="fill:#CED6E0"/>
+
+	<circle cx="320" cy="348" r="13.9" style="fill:#415A6B"/>
+	<rect x="65.1" y="228" width="180" height="162" style="fill:#415A6B"/>
+
+<rect x="81.1" y="244" width="148" height="130" style="fill:#8AD7F8"/>
+
+	<path d="m159 265c-2.13-2.13-7.47-2.13-9.6 0l-52.3 52.3c-2.13 2.13-2.13 7.47 0 9.6s7.47 2.13 9.6 0l52.3-52.3c3.2-3.2 3.2-7.47-1e-3 -9.6z" style="fill:#55C0EB"/>
+	<path d="m171 295c-2.13-2.13-7.47-2.13-9.6 0l-33.1 33.1c-2.13 2.13-2.13 7.47 0 9.6s7.47 2.13 9.6 0l33.1-33.1c3.2-3.2 3.2-7.47 0-9.6z" style="fill:#55C0EB"/>
+
+</svg>

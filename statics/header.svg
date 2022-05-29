@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" width="100%" viewBox="0 0 512 256">
+    <path d="m0,0l512,0l0,200c-256,-128 -256,128 -512,0l0,-256z" fill-rule="evenodd" stroke="null">
+        <animate attributeName="fill" values="#035000;#034800;#035000" dur="7s" repeatCount="indefinite" />
+    </path>
+</svg>

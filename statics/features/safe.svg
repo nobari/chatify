@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96.000008"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-filename="/Users/SaaMoj/Downloads/samira.png"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="safe.svg"
+   id="svg847"
+   xml:space="preserve"
+   viewBox="0 0 128 128"
+   version="1.1"
+   height="128"
+   width="128"><metadata
+   id="metadata853"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs851" /><sodipodi:namedview
+   inkscape:current-layer="svg847"
+   inkscape:window-maximized="0"
+   inkscape:window-y="25"
+   inkscape:window-x="0"
+   inkscape:cy="33.330219"
+   inkscape:cx="-61.361432"
+   inkscape:zoom="0.76511638"
+   inkscape:showpageshadow="false"
+   showgrid="false"
+   id="namedview849"
+   inkscape:window-height="486"
+   inkscape:window-width="943"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<path
+   inkscape:export-ydpi="91.790001"
+   inkscape:export-xdpi="91.790001"
+   inkscape:export-filename="/Users/SaaMoj/Downloads/samira.png"
+   id="path833"
+   style="fill:#035000;stroke-width:0.19"
+   d="M 106,40.399999 H 20.8 c -3.35,0 -6.09,2.73 -6.09,6.090001 v 54.8 c 0,3.36 2.73,6.09 6.09,6.09 H 106 c 3.35999,0 6.08999,-2.73 6.08999,-6.09 v -54.8 c 0,-3.35 -2.73,-6.090001 -6.08999,-6.090001 z" />
+<rect
+   inkscape:export-ydpi="91.790001"
+   inkscape:export-xdpi="91.790001"
+   inkscape:export-filename="/Users/SaaMoj/Downloads/samira.png"
+   id="rect835"
+   style="fill:#ffc300;stroke-width:0.19"
+   height="18.299997"
+   width="97.399994"
+   y="52.5"
+   x="15" />
+<g
+   inkscape:export-ydpi="91.790001"
+   inkscape:export-xdpi="91.790001"
+   inkscape:export-filename="/Users/SaaMoj/Downloads/samira.png"
+   id="g841"
+   transform="matrix(0.18999999,0,0,0.18999999,15,16.000001)">
+	<path
+   id="path837"
+   style="fill:#fafafa"
+   d="M 144,384 H 80 c -8.83,0 -16,-7.17 -16,-16 0,-8.83 7.17,-16 16,-16 h 64 c 8.83,0 16,7.17 16,16 0,8.83 -7.17,16 -16,16 z" />
+	
+</g>
+<path
+   inkscape:export-ydpi="91.790001"
+   inkscape:export-xdpi="91.790001"
+   inkscape:export-filename="/Users/SaaMoj/Downloads/samira.png"
+   id="path843"
+   style="fill:#32d74b;stroke:#ffffff;stroke-width:4.72441;stroke-miterlimit:4;stroke-dasharray:none"
+   d="M 115.11478,31.5 93.814778,22.37 c -0.773,-0.329 -1.63,-0.329 -2.4,0 L 70.114779,31.5 c -1.11,0.475 -1.84,1.58 -1.84,2.79 v 12.2 c 0,16.699999 6.189999,26.499998 22.799999,36.099998 0.468999,0.268 0.992,0.402 1.52,0.402 0.524,0 1.05,-0.134 1.519999,-0.402 C 110.71477,73.029999 116.91478,63.189999 116.91478,46.49 v -12.2 c 0,-1.22 -0.72401,-2.32 -1.84001,-2.79 z" />
+<path
+   inkscape:export-ydpi="91.790001"
+   inkscape:export-xdpi="91.790001"
+   inkscape:export-filename="/Users/SaaMoj/Downloads/samira.png"
+   id="path845"
+   style="fill:#fafafa;stroke-width:0.19"
+   d="m 89.214778,61.699999 h -0.128 c -0.968,-0.0426 -1.86,-0.542 -2.4,-1.35 l -6.089999,-9.13 C 79.665778,49.82 80.042778,47.93 81.442778,47 c 1.39,-0.925001 3.28,-0.560001 4.22,0.845999 l 3.78,5.67 L 99.012777,41.516 c 1.050003,-1.31 2.970003,-1.52 4.279993,-0.475001 1.31001,1.050001 1.52001,2.960001 0.47501,4.28 l -12.200002,15.2 c -0.578,0.712 -1.45,1.13 -2.37,1.13 z" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</svg>

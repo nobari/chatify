@@ -1,0 +1,119 @@
+{
+  "_1": {
+    "id": "food",
+    "t": "Food",
+    "s": {
+      "_1": "Biscuits",
+      "_2": "Chips",
+      "_3": "Chocolate",
+      "_4": "Crackers",
+      "_5": "Gummy",
+      "_6": "Noodles",
+      "_7": "Snacks"
+    }
+  },
+  "_2": {
+    "id": "drink",
+    "t": "Drink",
+    "s": {
+      "_1": "Green Tea",
+      "_2": "Alcoholic",
+      "_3": "Non-Alcoholic"
+    }
+  },
+  "_3": {
+    "id": "beauty",
+    "t": "Beauty",
+    "s": {
+      "_1": "Hair Care & Styling",
+      "_2": "Cosmetics",
+      "_3": "Skincare",
+      "_4": "Bath & Bodycare",
+      "_5": "Nail care",
+      "_6": "Contact Lenses",
+      "_7": "Men's Products"
+    }
+  },
+  "_4": {
+    "id": "health",
+    "t": "Health",
+    "s": {
+      "_1": "Body Relaxation",
+      "_2": "Supplement",
+      "_3": "Face Masks",
+      "_4": "Throat Drops",
+      "_5": "Eye Drops",
+      "_6": "Oral Care",
+      "_7": "Medicine"
+    }
+  },
+  "_5": {
+    "id": "electronics",
+    "t": "Electronics",
+    "s": {
+      "_1": "Cameras, Lenses & Accessories",
+      "_2": "Watches",
+      "_3": "Coffee Making Equipment",
+      "_4": "Rice Cooker",
+      "_5": "Audio Equipment",
+      "_6": "Electronic Cigarette",
+      "_7": "Fishing Equipment"
+    }
+  },
+  "_6": {
+    "id": "handicraft",
+    "t": "Handicraft",
+    "s": {
+      "_1": "Jewelry & Accessories",
+      "_2": "Vintage",
+      "_3": "Tableware"
+    }
+  },
+  "_7": {
+    "id": "stationary",
+    "t": "Stationary",
+    "s": {
+      "_1": "Fountain Pens & Ink",
+      "_2": "Mini Clips",
+      "_3": "Shaker Pencils",
+      "_4": "Stickyle Scissors",
+      "_5": "Erasers",
+      "_6": "Pens",
+      "_7": "Gel Pens",
+      "_8": "Pen Cases",
+      "_9": "Notebooks",
+      "_10": "Stickey Notes",
+      "_11": "Masking Tapes"
+    }
+  },
+  "_8": {
+    "id": "collectibles",
+    "t": "Collectibles",
+    "s": {
+      "_1": "Anime Figures",
+      "_2": "Gunpla Model Kits",
+      "_3": "Amiibo",
+      "_4": "Bearbrick Figures"
+    }
+  },
+  "_9": {
+    "id": "entertainment",
+    "t": "Entertainment",
+    "s": {
+      "_1": "Books",
+      "_2": "Movies",
+      "_3": "Musics",
+      "_4": "Dakimakura",
+      "_5": "Doujinshi"
+    }
+  },
+  "_10": {
+    "id": "fashion",
+    "t": "Fashion",
+    "s": {
+      "_1": "Jewelry & Accessories",
+      "_2": "Sneakers & Shoes",
+      "_3": "Cosplay"
+    }
+  }
+}
